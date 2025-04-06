@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning for Astronomy**
 
-- 💬 Ask me about **Python, C++, Computer Vision, Image Processing**
+- 💬 Ask me about **Python, C++, Computer Vision, Deep Learning and Image Processing**
 
 - 📫 How to reach me **srinadhml99@gmail.com**
 
