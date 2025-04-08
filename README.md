@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Developing Machine Learning Algorithms for Compton Imaging in High-Energy Astrophysics](https://github.com/cositools)
 
-- 🌱 I’m currently learning **Compton Imaging, Astronomy**
+- 🌱 I’m currently learning **Compton Imaging, High-Energy Astrophysics**
 
 - 👯 I’m looking to collaborate on **Machine Learning for Astronomy**
 
